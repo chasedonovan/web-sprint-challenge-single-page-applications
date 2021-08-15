@@ -8,6 +8,7 @@ import * as yup from 'yup'
 import axios from 'axios'
 import './App.css'
 
+
 const initialForm = {
   name: '',
   size: '',
